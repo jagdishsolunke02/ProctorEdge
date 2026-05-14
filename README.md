@@ -2,6 +2,9 @@
 
 🛡️ ProctorEdge is an advanced AI-based online examination monitoring platform designed to detect and prevent cheating during remote exams. As online assessments grow, maintaining fairness has become a major challenge — ProctorEdge addresses this with real-time intelligent monitoring, secure browser controls, and automated reporting.
 
+
+
+
 ✨ Key Features
 🎥 Smart Video Monitoring
 👤 Face verification to confirm candidate identity
@@ -34,6 +37,11 @@
 5️⃣ Send reports to school/admin panel
 
 
+
+
+
+
+
 🧠 AI Technologies Used
 🤖 Object Detection with YOLOv8
 👁️ Face & Eye Tracking with MediaPipe
@@ -46,10 +54,17 @@
 💻 Vardhan Paithane
 🎯 Use Cases
 
+
+
 🏫 Educational institutions
 🏢 Recruitment and hiring tests
 📜 Online certification platforms
 🏛️ Government examination boards
+
+
+
+
+
 
 🔮 Future Enhancements
 😊 Emotion & stress detection
