@@ -1,30 +1,61 @@
-# ProctorEdge
-ProctorEdge is a cutting-edge, AI-driven examination monitoring platform designed to ensure academic integrity in remote environments. By leveraging Computer Vision and Behavioral Analysis, it automates invigilation with precision and scale.
+🚀 ProctorEdge — AI-Powered Online Exam Proctoring System
+
+🛡️ ProctorEdge is an advanced AI-based online examination monitoring platform designed to detect and prevent cheating during remote exams. As online assessments grow, maintaining fairness has become a major challenge — ProctorEdge addresses this with real-time intelligent monitoring, secure browser controls, and automated reporting.
+
+✨ Key Features
+🎥 Smart Video Monitoring
+👤 Face verification to confirm candidate identity
+👀 Eye tracking to detect suspicious gaze movement
+🚷 Detects multiple people entering the frame
+📱 Identifies hidden devices like phones, books, notes, and earphones using AI
+🎙️ Intelligent Audio Monitoring
+🔊 Captures room audio during exams
+🤫 Detects talking, whispering, and unusual background sounds
+🚨 Flags suspicious noises instantly
+🔐 Secure Browser Lockdown
+❌ Tab switching disabled
+❌ Window minimize blocked
+❌ Copy-paste restricted
+❌ Right-click disabled
+🏰 Exam environment secured like a digital fortress
+📊 Live Admin Dashboard
+🖥️ Real-time exam monitoring for teachers and supervisors
+📸 Automatic screenshots when suspicious activity is detected
+⚠️ Instant alerts for violations
+📈 AI-generated risk score for each student
 
 
-PROCTOREDGE PROJECT GUIDE
-ABOUT THE SYSTEM
-ProctorEdge is a smart online exam system that uses artificial intelligence to stop cheating. Cheating has increased by 300 percent recently, and human monitors cannot keep up. This system is built to fix that problem by catching things that humans or older software might miss.  
+⚙️ Workflow
 
-HOW IT WATCHES AND LISTENS
-The system uses the computer camera to check the student's face and verify who they are. It tracks their eyes to see if they are looking away for answers and can tell if a second person steps into the frame. The AI acts fast to spot hidden phones, open books, notes, or earphones.  
-It also listens very closely to the room to make sure it is completely quiet. It will flag any talking, whispering, or unusual background noises.  
-HOW IT LOCKS THE BROWSER
-During the exam, the test page acts like a digital fortress. Students cannot switch to other tabs, minimize the window, copy and paste text, or right-click their mouse.  
- 
- TOOLS FOR TEACHERS
-Teachers and supervisors get a control center where they can watch the test live. If the system catches something suspicious, it sends an instant alert and saves a screenshot as evidence. The system also gives a risk score to show how likely it is that someone is cheating.  
-
-HOW IT WORKS STEP BY STEP
-First, it safely connects to the student's camera and microphone.
-Second, the AI starts watching the video and listening to the audio.
-Third, it spots any strange behavior and gives it a score.
-Finally, it sends a complete report to the school or administration.  
+1️⃣ Connect securely to student’s camera and microphone
+2️⃣ Start AI video + audio monitoring
+3️⃣ Analyze suspicious activities in real time
+4️⃣ Generate violation reports with evidence
+5️⃣ Send reports to school/admin panel
 
 
-THE TEAM AND TECHNOLOGY
-The system was created by team lead Jagdish Solunke, along with engineers Chaitanya Kulkarni, Sachin Patharkar, and Vardhan Paithane. They built it using modern tools like React for the website, Node for the servers, and AI programs like YOLOv8 and MediaPipe to detect objects and faces.  
+🧠 AI Technologies Used
+🤖 Object Detection with YOLOv8
+👁️ Face & Eye Tracking with MediaPipe
+🌐 Frontend with React
+⚡ Backend with Node.js
+👨‍💻 Team
+👑 Team Lead: Jagdish Solunke
+💻 Chaitanya Kulkarni
+💻 Sachin Patharkar
+💻 Vardhan Paithane
+🎯 Use Cases
 
+🏫 Educational institutions
+🏢 Recruitment and hiring tests
+📜 Online certification platforms
+🏛️ Government examination boards
 
-WHO IT IS FOR
-This system is helpful for colleges, companies giving hiring tests, online certification groups, and government exam boards to stop cheating and paper leaks. In the future, the team wants to add emotion tracking, allow multiple cameras, and build a mobile app.
+🔮 Future Enhancements
+😊 Emotion & stress detection
+📷 Multi-camera monitoring
+📱 Mobile application support
+☁️ Cloud-based analytics dashboard
+💡 Vision
+
+ProctorEdge aims to make online examinations fair, secure, and trustworthy by combining artificial intelligence with modern web technologies — helping institutions conduct exams with confidence.
